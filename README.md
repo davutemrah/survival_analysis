@@ -1,3 +1,3 @@
 # survival_analysis
 
-Colleting my notes on Survival Model Analysis
+Collecting my notes on Survival Model Analysis
